@@ -1518,5 +1518,27 @@
       "korean": "열",
       "sinhalese": "10 දහය [K]"
     }
+  ], 
+  "10. 어제 도서관에서 한국어를 공부했어요": [
+    {
+      "korean": "월",
+      "sinhalese": "මාසය"
+    },
+    {
+      "korean": "일 (월)",
+      "sinhalese": "දවස"
+    },
+    {
+      "korean": "언제",
+      "sinhalese": "කීයටද / කවදාද"
+    },
+    {
+      "korean": "날짜",
+      "sinhalese": "දිනය"
+    },
+    {
+      "korean": "날짜와 요일",
+      "sinhalese": "දින සහ දවස්"
+    }
   ]
-    } 
+} 
