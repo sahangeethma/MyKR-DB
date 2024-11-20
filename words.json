@@ -183,6 +183,576 @@
         { "korean": "아흔여덟", "sinhalese": "98 අනූ අට [NK]" },
         { "korean": "아흔아홉", "sinhalese": "99 අනූ නවය [NK]" }
     ],
+  {
+  "Sino Numbers": [
+    {"korean": "구천팔백삼십이", "sinhalese": "9832"},
+    {"korean": "천이백사십오", "sinhalese": "1245"},
+    {"korean": "오천육백칠십일", "sinhalese": "5671"},
+    {"korean": "팔천구백십", "sinhalese": "8910"},
+    {"korean": "삼천사백이십팔", "sinhalese": "3428"},
+    {"korean": "육천칠백구십삼", "sinhalese": "6793"},
+    {"korean": "이천오백십육", "sinhalese": "2516"},
+    {"korean": "칠천백팔십사", "sinhalese": "7184"},
+    {"korean": "사천삼백육십칠", "sinhalese": "4367"},
+    {"korean": "구천백이십삼", "sinhalese": "9123"},
+    {"korean": "천팔백구십오", "sinhalese": "1895"},
+    {"korean": "오천사백삼십이", "sinhalese": "5432"},
+    {"korean": "팔천육백십사", "sinhalese": "8614"},
+    {"korean": "삼천칠백구십", "sinhalese": "3790"},
+    {"korean": "육천이백사십일", "sinhalese": "6241"},
+    {"korean": "이천구백팔십삼", "sinhalese": "2983"},
+    {"korean": "칠천오백이십육", "sinhalese": "7526"},
+    {"korean": "사천백팔십구", "sinhalese": "4189"},
+    {"korean": "구천사백오십칠", "sinhalese": "9457"},
+    {"korean": "천육백삼십팔", "sinhalese": "1638"},
+    {"korean": "오천팔백구십이", "sinhalese": "5892"},
+    {"korean": "팔천삼백이십오", "sinhalese": "8325"},
+    {"korean": "삼천육백십사", "sinhalese": "3614"},
+    {"korean": "육천구백칠십팔", "sinhalese": "6978"},
+    {"korean": "이천백삼십칠", "sinhalese": "2137"},
+    {"korean": "칠천팔백사십이", "sinhalese": "7842"},
+    {"korean": "사천오백구십육", "sinhalese": "4596"},
+    {"korean": "구천이백삼십일", "sinhalese": "9231"},
+    {"korean": "천구백사십칠", "sinhalese": "1947"},
+    {"korean": "오천백이십삼", "sinhalese": "5123"},
+    {"korean": "팔천칠백육십구", "sinhalese": "8769"},
+    {"korean": "삼천이백팔십오", "sinhalese": "3285"},
+    {"korean": "육천오백사십삼", "sinhalese": "6543"},
+    {"korean": "이천칠백십팔", "sinhalese": "2718"},
+    {"korean": "칠천삼백구십사", "sinhalese": "7394"},
+    {"korean": "사천팔백이십일", "sinhalese": "4821"},
+    {"korean": "구천육백팔십오", "sinhalese": "9685"},
+    {"korean": "천삼백오십이", "sinhalese": "1352"},
+    {"korean": "오천구백칠십육", "sinhalese": "5976"},
+    {"korean": "팔천백삼십팔", "sinhalese": "8138"},
+    {"korean": "삼천구백사십이", "sinhalese": "3942"},
+    {"korean": "육천칠백십오", "sinhalese": "6715"},
+    {"korean": "이천사백팔십구", "sinhalese": "2489"},
+    {"korean": "칠천육백이십삼", "sinhalese": "7623"},
+    {"korean": "사천삼백칠십팔", "sinhalese": "4378"},
+    {"korean": "구천팔십사", "sinhalese": "9084"},
+    {"korean": "천칠백이십육", "sinhalese": "1726"},
+    {"korean": "오천삼백구십일", "sinhalese": "5391"},
+    {"korean": "팔천오백사십칠", "sinhalese": "8547"},
+    {"korean": "삼천백이십삼", "sinhalese": "3123"},
+    {"korean": "육천팔백구십육", "sinhalese": "6896"},
+    {"korean": "이천육백삼십오", "sinhalese": "2635"},
+    {"korean": "칠천백사십팔", "sinhalese": "7148"},
+    {"korean": "사천육백구십이", "sinhalese": "4692"},
+    {"korean": "구천삼백이십칠", "sinhalese": "9327"},
+    {"korean": "천오백팔십삼", "sinhalese": "1583"},
+    {"korean": "오천칠백사십육", "sinhalese": "5746"},
+    {"korean": "팔천이백십구", "sinhalese": "8219"},
+    {"korean": "삼천팔백육십사", "sinhalese": "3864"},
+    {"korean": "육천삼백이십팔", "sinhalese": "6328"},
+    {"korean": "이천구백칠십일", "sinhalese": "2971"},
+    {"korean": "칠천사백팔십오", "sinhalese": "7485"},
+    {"korean": "사천백이십삼", "sinhalese": "4123"},
+    {"korean": "구천오백팔십이", "sinhalese": "9582"},
+    {"korean": "천팔백삼십칠", "sinhalese": "1837"},
+    {"korean": "오천이백구십사", "sinhalese": "5294"},
+    {"korean": "팔천육백칠십삼", "sinhalese": "8673"},
+    {"korean": "삼천오백십팔", "sinhalese": "3518"},
+    {"korean": "육천백사십이", "sinhalese": "6142"},
+    {"korean": "이천삼백팔십육", "sinhalese": "2386"},
+    {"korean": "칠천구백이십일", "sinhalese": "7921"},
+    {"korean": "사천칠백육십오", "sinhalese": "4765"},
+    {"korean": "구천백삼십팔", "sinhalese": "9138"},
+    {"korean": "천이백구십사", "sinhalese": "1294"},
+    {"korean": "오천육백삼십칠", "sinhalese": "5637"},
+    {"korean": "팔천구백이십오", "sinhalese": "8925"},
+    {"korean": "삼천칠백사십일", "sinhalese": "3741"},
+    {"korean": "육천오백팔십구", "sinhalese": "6589"},
+    {"korean": "이천백이십오", "sinhalese": "2125"},
+    {"korean": "칠천삼백육십이", "sinhalese": "7362"},
+    {"korean": "사천구백십팔", "sinhalese": "4918"},
+    {"korean": "구천칠백사십삼", "sinhalese": "9743"},
+    {"korean": "천육백오십이", "sinhalese": "1652"},
+    {"korean": "오천팔백십삼", "sinhalese": "5813"},
+    {"korean": "팔천삼백사십육", "sinhalese": "8346"},
+    {"korean": "삼천이백구십칠", "sinhalese": "3297"},
+    {"korean": "육천팔백삼십사", "sinhalese": "6834"},
+    {"korean": "이천오백육십구", "sinhalese": "2569"},
+    {"korean": "칠천백팔십이", "sinhalese": "7182"},
+    {"korean": "사천삼백이십오", "sinhalese": "4325"},
+    {"korean": "구천오백육십팔", "sinhalese": "9568"},
+    {"korean": "천팔백십사", "sinhalese": "1814"},
+    {"korean": "오천사백구십이", "sinhalese": "5492"},
+    {"korean": "팔천칠백이십삼", "sinhalese": "8723"},
+    {"korean": "삼천육백팔십오", "sinhalese": "3685"},
+    {"korean": "육천이백십칠", "sinhalese": "6217"},
+    {"korean": "이천팔백사십삼", "sinhalese": "2843"},
+    {"korean": "칠천오백구십육", "sinhalese": "7596"},
+    {"korean": "사천백삼십이", "sinhalese": "4132"},
+    {"korean": "구천팔백이십오", "sinhalese": "9825"},
+    {"korean": "천삼백칠십구", "sinhalese": "1379"},
+    {"korean": "오천육백이십사", "sinhalese": "5624"},
+    {"korean": "팔천백팔십삼", "sinhalese": "8183"},
+    {"korean": "삼천구백오십이", "sinhalese": "3952"},
+    {"korean": "육천칠백이십육", "sinhalese": "6726"},
+    {"korean": "이천사백구십일", "sinhalese": "2491"},
+    {"korean": "칠천팔백삼십오", "sinhalese": "7835"},
+    {"korean": "사천오백육십칠", "sinhalese": "4567"},
+    {"korean": "구천이백구십삼", "sinhalese": "9293"},
+    {"korean": "천칠백삼십육", "sinhalese": "1736"},
+    {"korean": "오천백오십팔", "sinhalese": "5158"},
+    {"korean": "팔천오백구십이", "sinhalese": "8592"},
+    {"korean": "삼천백이십육", "sinhalese": "3126"},
+    {"korean": "육천팔백사십일", "sinhalese": "6841"},
+    {"korean": "이천육백칠십오", "sinhalese": "2675"},
+    {"korean": "칠천삼백십팔", "sinhalese": "7318"},
+    {"korean": "사천팔백육십삼", "sinhalese": "4863"},
+    {"korean": "구천삼백사십이", "sinhalese": "9342"},
+    {"korean": "천오백구십칠", "sinhalese": "1597"},
+    {"korean": "오천칠백이십삼", "sinhalese": "5723"},
+    {"korean": "팔천이백육십팔", "sinhalese": "8268"},
+    {"korean": "삼천팔백십사", "sinhalese": "3814"},
+    {"korean": "육천삼백구십오", "sinhalese": "6395"},
+    {"korean": "이천구백이십팔", "sinhalese": "2928"},
+    {"korean": "칠천사백육십일", "sinhalese": "7461"},
+    {"korean": "사천백팔십오", "sinhalese": "4185"},
+    {"korean": "구천오백이십삼", "sinhalese": "9523"},
+    {"korean": "천팔백육십이", "sinhalese": "1862"},
+    {"korean": "오천이백삼십칠", "sinhalese": "5237"},
+    {"korean": "팔천육백구십오", "sinhalese": "8695"},
+    {"korean": "삼천오백사십일", "sinhalese": "3541"},
+    {"korean": "육천백이십팔", "sinhalese": "6128"},
+    {"korean": "이천삼백구십사", "sinhalese": "2394"},
+    {"korean": "칠천구백육십칠", "sinhalese": "7967"},
+    {"korean": "사천칠백십삼", "sinhalese": "4713"},
+    {"korean": "구천백오십이", "sinhalese": "9152"},
+    {"korean": "천이백팔십육", "sinhalese": "1286"},
+    {"korean": "오천육백사십삼", "sinhalese": "5643"},
+    {"korean": "팔천구백칠십일", "sinhalese": "8971"},
+    {"korean": "삼천칠백이십오", "sinhalese": "3725"},
+    {"korean": "육천오백구십이", "sinhalese": "6592"},
+    {"korean": "이천백삼십이", "sinhalese": "2132"},
+    {"korean": "칠천삼백팔십육", "sinhalese": "7386"},
+    {"korean": "사천구백이십사", "sinhalese": "4924"},
+    {"korean": "구천칠백오십팔", "sinhalese": "9758"},
+    {"korean": "천육백십삼", "sinhalese": "1613"},
+    {"korean": "오천팔백사십칠", "sinhalese": "5847"},
+    {"korean": "팔천삼백십이", "sinhalese": "8312"},
+    {"korean": "삼천이백육십구", "sinhalese": "3269"},
+    {"korean": "육천팔백오십삼", "sinhalese": "6853"},
+    {"korean": "이천오백칠십사", "sinhalese": "2574"},
+    {"korean": "칠천백이십구", "sinhalese": "7129"},
+    {"korean": "사천삼백팔십일", "sinhalese": "4381"},
+    {"korean": "구천오백구십사", "sinhalese": "9594"},
+    {"korean": "천팔백이십삼", "sinhalese": "1823"},
+    {"korean": "오천사백오십팔", "sinhalese": "5458"},
+    {"korean": "팔천칠백삼십육", "sinhalese": "8736"},
+    {"korean": "삼천육백구십이", "sinhalese": "3692"},
+    {"korean": "육천이백이십오", "sinhalese": "6225"},
+    {"korean": "이천팔백오십칠", "sinhalese": "2857"},
+    {"korean": "칠천오백십삼", "sinhalese": "7513"},
+    {"korean": "사천백사십육", "sinhalese": "4146"},
+    {"korean": "구천팔백삼십칠", "sinhalese": "9837"},
+    {"korean": "천삼백구십이", "sinhalese": "1392"},
+    {"korean": "오천육백칠십오", "sinhalese": "5675"},
+    {"korean": "팔천백구십이", "sinhalese": "8192"}, 
+  {
+    "korean": "백구십오만사천팔십일",
+    "sinhalese": "1954081"
+  },
+  {
+    "korean": "백사십팔만팔천육백육십팔",
+    "sinhalese": "1488668"
+  },
+  {
+    "korean": "백사십일만육백구십칠",
+    "sinhalese": "1410697"
+  },
+  {
+    "korean": "백십칠만육천이백구십사",
+    "sinhalese": "1176294"
+  },
+  {
+    "korean": "삼백팔십삼만팔천백오십구",
+    "sinhalese": "3838159"
+  },
+  {
+    "korean": "육백칠십이만구천오백오십구",
+    "sinhalese": "6729559"
+  },
+  {
+    "korean": "육백사십만구천오백오십육",
+    "sinhalese": "6409556"
+  },
+  {
+    "korean": "백육십이만오천삼백오십이",
+    "sinhalese": "1625352"
+  },
+  {
+    "korean": "팔백이십사만구천칠백칠십팔",
+    "sinhalese": "8249778"
+  },
+  {
+    "korean": "오십삼만삼천칠백사십일",
+    "sinhalese": "533741"
+  },
+  {
+    "korean": "구백사십삼만육천백팔십사",
+    "sinhalese": "9436184"
+  },
+  {
+    "korean": "이백구십만이천백칠",
+    "sinhalese": "2902107"
+  },
+  {
+    "korean": "팔백칠십삼만팔천구백구십육",
+    "sinhalese": "8738996"
+  },
+  {
+    "korean": "오백만육천삼백구십이",
+    "sinhalese": "5006392"
+  },
+  {
+    "korean": "팔백사십일만구천백오십이",
+    "sinhalese": "8419152"
+  },
+  {
+    "korean": "백삼십일만육천삼백사십사",
+    "sinhalese": "1316344"
+  },
+  {
+    "korean": "오백팔십구만팔천삼백오십이",
+    "sinhalese": "5898352"
+  },
+  {
+    "korean": "육백사십구만삼천사십일",
+    "sinhalese": "6493041"
+  },
+  {
+    "korean": "육백십일만이천육백삼십구",
+    "sinhalese": "6112639"
+  },
+  {
+    "korean": "이백이십이만오천팔백사십칠",
+    "sinhalese": "2225847"
+  },
+  {
+    "korean": "육백육십오만육천이백사십오",
+    "sinhalese": "6656245"
+  },
+  {
+    "korean": "오백칠만이천구백십",
+    "sinhalese": "5072910"
+  },
+  {
+    "korean": "육백구십삼만이천이백칠십사",
+    "sinhalese": "6932274"
+  },
+  {
+    "korean": "이백칠십만칠백이십삼",
+    "sinhalese": "2700723"
+  },
+  {
+    "korean": "삼백구십구만사천팔백사십육",
+    "sinhalese": "3994846"
+  },
+  {
+    "korean": "구백삼십만육천구백십오",
+    "sinhalese": "9306915"
+  },
+  {
+    "korean": "이백십구만칠백팔십",
+    "sinhalese": "2190780"
+  },
+  {
+    "korean": "이백구십팔만사천구백육십육",
+    "sinhalese": "2984966"
+  },
+  {
+    "korean": "구백오십삼만팔백이십오",
+    "sinhalese": "9530825"
+  },
+  {
+    "korean": "오백십팔만칠천이백육십삼",
+    "sinhalese": "5187263"
+  },
+  {
+    "korean": "육백칠만칠백삼십",
+    "sinhalese": "6070730"
+  },
+  {
+    "korean": "이십구만백이십오",
+    "sinhalese": "290125"
+  },
+  {
+    "korean": "백이십만천이십오",
+    "sinhalese": "1201025"
+  },
+  {
+    "korean": "오십이만오천삼백오십",
+    "sinhalese": "525350"
+  },
+  {
+    "korean": "오백이십만천오백이십이",
+    "sinhalese": "5201522"
+  },
+  {
+    "korean": "사백육만오천이백삼",
+    "sinhalese": "4065203"
+  },
+  {
+    "korean": "백구십사만칠백사십오",
+    "sinhalese": "1940745"
+  },
+  {
+    "korean": "이백오십오만구천구백구십팔",
+    "sinhalese": "2559998"
+  },
+  {
+    "korean": "삼백사십이만구천칠백이십삼",
+    "sinhalese": "3429723"
+  },
+  {
+    "korean": "삼백오십삼만오천사백오십일",
+    "sinhalese": "3535451"
+  },
+  {
+    "korean": "삼백칠십육만삼천팔백삼십칠",
+    "sinhalese": "3763837"
+  },
+  {
+    "korean": "이백십구만삼천팔백팔십이",
+    "sinhalese": "2193882"
+  },
+  {
+    "korean": "이백사십팔만칠천팔백",
+    "sinhalese": "2487800"
+  },
+  {
+    "korean": "오백오십오만칠천육백사십일",
+    "sinhalese": "5557641"
+  },
+  {
+    "korean": "구십사만구천팔백칠십삼",
+    "sinhalese": "949873"
+  },
+  {
+    "korean": "칠백이십일만구천오백육십구",
+    "sinhalese": "7219569"
+  },
+  {
+    "korean": "이백이십칠만팔천이백구",
+    "sinhalese": "2278209"
+  },
+  {
+    "korean": "이백칠십칠만육천오백오십칠",
+    "sinhalese": "2776557"
+  },
+  {
+    "korean": "오백일만오백사십육",
+    "sinhalese": "5010546"
+  },
+  {
+    "korean": "팔백칠십이만구천팔십육",
+    "sinhalese": "8729086"
+  },
+  {
+    "korean": "이백사십만이천구백칠십칠",
+    "sinhalese": "2402977"
+  },
+  {
+    "korean": "팔백삼십삼만천사백삼십삼",
+    "sinhalese": "8331433"
+  },
+  {
+    "korean": "오백오만사백육십",
+    "sinhalese": "5050460"
+  },
+  {
+    "korean": "이백오십삼만육천칠백칠십육",
+    "sinhalese": "2536776"
+  },
+  {
+    "korean": "오백오십육만육천오백팔십구",
+    "sinhalese": "5566589"
+  },
+  {
+    "korean": "칠백십사만천사백팔십삼",
+    "sinhalese": "7141483"
+  },
+  {
+    "korean": "사백오십오만팔천이백칠십이",
+    "sinhalese": "4558272"
+  },
+  {
+    "korean": "사백팔십오만사천삼백오십일",
+    "sinhalese": "4854351"
+  },
+  {
+    "korean": "칠백십칠만천백사십일",
+    "sinhalese": "7171141"
+  },
+  {
+    "korean": "이십육만삼천오",
+    "sinhalese": "263005"
+  },
+  {
+    "korean": "이백육십일만오천육백구십이",
+    "sinhalese": "2615692"
+  },
+  {
+    "korean": "백칠십이만삼백구십삼",
+    "sinhalese": "1720393"
+  },
+  {
+    "korean": "사백구만오천팔백육십칠",
+    "sinhalese": "4095867"
+  },
+  {
+    "korean": "백이십육만구천팔백오십삼",
+    "sinhalese": "1269853"
+  },
+  {
+    "korean": "사백육십이만이천이백칠십칠",
+    "sinhalese": "4622277"
+  },
+  {
+    "korean": "이백삼십사만구천팔백팔십일",
+    "sinhalese": "2349881"
+  },
+  {
+    "korean": "백구십구만구천백십이",
+    "sinhalese": "1999112"
+  },
+  {
+    "korean": "오백이십만칠천백팔십구",
+    "sinhalese": "5207189"
+  },
+  {
+    "korean": "칠백구십구만팔천팔백십이",
+    "sinhalese": "7998812"
+  },
+  {
+    "korean": "육백오십만이천사백팔십육",
+    "sinhalese": "6502486"
+  },
+  {
+    "korean": "이백십일만삼천칠백구십칠",
+    "sinhalese": "2113797"
+  },
+  {
+    "korean": "이백사십칠만사천팔백삼십이",
+    "sinhalese": "2474832"
+  },
+  {
+    "korean": "칠백이십삼만오천구백팔십",
+    "sinhalese": "7235980"
+  },
+  {
+    "korean": "구백십이만팔천백팔십구",
+    "sinhalese": "9128189"
+  },
+  {
+    "korean": "이백육십삼만이천오백사십사",
+    "sinhalese": "2632544"
+  },
+  {
+    "korean": "삼십삼만삼천오백십오",
+    "sinhalese": "333515"
+  },
+  {
+    "korean": "이백사십만칠천백구십육",
+    "sinhalese": "2407196"
+  },
+  {
+    "korean": "칠백이십만사천사백구십사",
+    "sinhalese": "7204494"
+  },
+  {
+    "korean": "삼백일만이천사십삼",
+    "sinhalese": "3012043"
+  },
+  {
+    "korean": "사백사십일만천삼십일",
+    "sinhalese": "4411031"
+  },
+  {
+    "korean": "오백육십칠만삼천칠백팔십구",
+    "sinhalese": "5673789"
+  },
+  {
+    "korean": "오백오만육천구십삼",
+    "sinhalese": "5056093"
+  },
+  {
+    "korean": "구백이십구만사백칠십오",
+    "sinhalese": "9290475"
+  },
+  {
+    "korean": "구백사십팔만천육백칠",
+    "sinhalese": "9481607"
+  },
+  {
+    "korean": "팔백칠십이만팔천구백칠십이",
+    "sinhalese": "8728972"
+  },
+  {
+    "korean": "오백이십일만오백십삼",
+    "sinhalese": "5210513"
+  },
+  {
+    "korean": "육백사십일만천오백십오",
+    "sinhalese": "6411515"
+  },
+  {
+    "korean": "삼백만사천사",
+    "sinhalese": "3004004"
+  },
+  {
+    "korean": "이백사십이만구천이백이십이",
+    "sinhalese": "2429222"
+  },
+  {
+    "korean": "이백삼십사만사천이백칠십팔",
+    "sinhalese": "2344278"
+  },
+  {
+    "korean": "구백사십오만육천오백칠",
+    "sinhalese": "9456507"
+  },
+  {
+    "korean": "사백십팔만삼천이백칠십오",
+    "sinhalese": "4183275"
+  },
+  {
+    "korean": "사십사만육천이백구십구",
+    "sinhalese": "446299"
+  },
+  {
+    "korean": "사십일만사천이백칠십육",
+    "sinhalese": "414276"
+  },
+  {
+    "korean": "사백삼십만팔천육백이십칠",
+    "sinhalese": "4308627"
+  },
+  {
+    "korean": "오백구십삼만삼천칠백사십육",
+    "sinhalese": "5933746"
+  },
+  {
+    "korean": "사백육십삼만구천칠백구십사",
+    "sinhalese": "4639794"
+  },
+  {
+    "korean": "팔백육십일만삼천칠백구십육",
+    "sinhalese": "8613796"
+  },
+  {
+    "korean": "삼백삼십칠만칠천오백구십",
+    "sinhalese": "3377590"
+  },
+  {
+    "korean": "이백사십만사백칠",
+    "sinhalese": "2400407"
+  }
+  ], 
+   ], 
   "3-4. 안녕하세요": [
     {
       "korean": "오이",
