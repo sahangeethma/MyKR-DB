@@ -1,4 +1,5 @@
-"Numbers": [
+{
+  "Numbers": [
   { "korean": "일", "sinhalese": "1 එක" },
   { "korean": "이", "sinhalese": "2 දෙක" },
   { "korean": "삼", "sinhalese": "3 තුන" },
@@ -865,3 +866,4 @@
   { "korean": "날짜", "sinhalese": "දිනය" },
   { "korean": "날짜와 요일", "sinhalese": "දින සහ දවස්" },
 ]
+}
