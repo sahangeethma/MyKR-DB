@@ -20,7 +20,7 @@
   { "korean": "여덟", "sinhalese": "8 අට [K]" },
   { "korean": "아홉", "sinhalese": "9 නවය [K]" },
   { "korean": "열", "sinhalese": "10 දහය [K]" },
-]
+],
 "Native Korean Numbers": [
   { "korean": "영", "sinhalese": "0 බින්දුව [NK]" },
   { "korean": "하나", "sinhalese": "1 එක [NK]" },
@@ -122,7 +122,7 @@
   { "korean": "아흔일곱", "sinhalese": "97 අනූ හත [NK]" },
   { "korean": "아흔여덟", "sinhalese": "98 අනූ අට [NK]" },
   { "korean": "아흔아홉", "sinhalese": "99 අනූ නවය [NK]" },
-]
+],
 "Sino Numbers": [
   { "korean": "구천팔백삼십이", "sinhalese": "9832" },
   { "korean": "천이백사십오", "sinhalese": "1245" },
@@ -490,7 +490,7 @@
   { "korean": "사백팔십오만사천팔백팔십", "sinhalese": "4854880" },
   { "korean": "오백일만삼천구백오십사", "sinhalese": "5013954" },
   { "korean": "이백팔십이만천칠백구십이", "sinhalese": "2821792" },
-]
+],
 "3-4. 안녕하세요": [
   { "korean": "오이", "sinhalese": "පිපිඤ්ඤ" },
   { "korean": "우유", "sinhalese": "කිරි " },
@@ -580,7 +580,7 @@
   { "korean": "아니에요", "sinhalese": "සුළු දෙයක් don't thank" },
   { "korean": "죄송합니다", "sinhalese": "සමාවෙන්න " },
   { "korean": "괜찮아요", "sinhalese": "කමක් නෑ " },
-]
+],
 "5. 주말 잘 보내세요": [
   { "korean": "안녕히 주무세요", "sinhalese": "සුභ රාත්‍රියක් " },
   { "korean": "잘 자요", "sinhalese": "හොඳින් නිදා ගන්න " },
@@ -594,7 +594,7 @@
   { "korean": "네, 주말 잘 보내세요", "sinhalese": "ඔව්, හොඳින් ගතකරන්නම් " },
   { "korean": "축하합니다", "sinhalese": "සුභ පැතුම් " },
   { "korean": "감사합니다", "sinhalese": "ස්තුතියි " },
-]
+],
 "6. 저는 투안입니다": [
   { "korean": "안녕하세요", "sinhalese": "ආයුබෝවන් " },
   { "korean": "저는 투안 입니다", "sinhalese": "මම තුවාන් " },
@@ -653,7 +653,7 @@
   { "korean": "확장 영습", "sinhalese": "වැඩිදුර අභ්‍යාස " },
   { "korean": "고르십시요", "sinhalese": "තෝරන්න" },
   { "korean": "발음", "sinhalese": "උච්චාරණය " },
-]
+],
 "7. 여기가 사무실이에요": [
   { "korean": "잔소", "sinhalese": "ස්ථාන " },
   { "korean": "여기", "sinhalese": "මෙතැන " },
@@ -710,7 +710,7 @@
   { "korean": "컵", "sinhalese": "කෝප්පය" },
   { "korean": "그림", "sinhalese": "පින්තුර" },
   { "korean": "빈칸", "sinhalese": "හිස් තැන / හිස් අවකාශය" },
-]
+],
 "8. 12시 30분에 점심을 먹어요": [
   { "korean": "학습 안내", "sinhalese": "අධ්‍යාපනය සදහා වන මාර්ගෝපදේශය " },
   { "korean": "씨", "sinhalese": "මහත්මයා / මහත්මිය" },
@@ -794,7 +794,7 @@
   { "korean": "들은 것을 고르십시요", "sinhalese": "සවන් දුන් දේ තෝරන්න" },
   { "korean": "통화 괜찮으세요? ", "sinhalese": "දුරකථනයෙන් කතා කරත් කමක් නැද්ද?" },
   { "korean": "네, 괜찮아요", "sinhalese": "ඔව්, කමක් නෑ" },
-]
+],
 "9. 가족이 몇 명이에요?": [
   { "korean": "명", "sinhalese": "මිනිසුන් ගනන් කරන එකකය" },
   { "korean": "없다", "sinhalese": "නැත / නොසිටී" },
@@ -858,12 +858,12 @@
   { "korean": "여보세요? ", "sinhalese": "හෙලෝ?" },
   { "korean": "리한씨 바빠요? ", "sinhalese": "රිහාන් මහතා කාර්යබහුලද?" },
   { "korean": "네, 좀 바빠요", "sinhalese": "ඔව්, ටිකක් කාර්යබහුලයි" },
-]
+],
 "10. 어제 도서관에서 한국어를 공부했어요": [
   { "korean": "월", "sinhalese": "මාසය" },
   { "korean": "일 (월)", "sinhalese": "දවස" },
   { "korean": "언제", "sinhalese": "කීයටද / කවදාද" },
   { "korean": "날짜", "sinhalese": "දිනය" },
   { "korean": "날짜와 요일", "sinhalese": "දින සහ දවස්" },
-]
+],
 }
