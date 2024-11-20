@@ -183,7 +183,6 @@
         { "korean": "아흔여덟", "sinhalese": "98 අනූ අට [NK]" },
         { "korean": "아흔아홉", "sinhalese": "99 අනූ නවය [NK]" }
     ],
-  {
   "Sino Numbers": [
     {"korean": "구천팔백삼십이", "sinhalese": "9832"},
     {"korean": "천이백사십오", "sinhalese": "1245"},
@@ -751,8 +750,7 @@
     "korean": "이백사십만사백칠",
     "sinhalese": "2400407"
   }
-  ], 
-   ], 
+  ],
   "3-4. 안녕하세요": [
     {
       "korean": "오이",
