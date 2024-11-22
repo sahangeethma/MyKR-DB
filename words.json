@@ -19,7 +19,11 @@
     { "korean": "일곱", "sinhalese": "7 හත [K]" },
     { "korean": "여덟", "sinhalese": "8 අට [K]" },
     { "korean": "아홉", "sinhalese": "9 නවය [K]" },
-    { "korean": "열", "sinhalese": "10 දහය [K]" }
+    { "korean": "열", "sinhalese": "10 දහය [K]" }, 
+    { "korean": "십 [x]", "sinhalese": "x10" },
+    { "korean": "백", "sinhalese": "x100" },
+    { "korean": "찬", "sinhalese": "x1,000" },
+    { "korean": "만", "sinhalese": "x10,000" }
   ],
   "Native Korean Numbers": [
     { "korean": "영", "sinhalese": "0 බින්දුව [NK]" },
