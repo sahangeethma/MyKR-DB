@@ -495,6 +495,808 @@
     { "korean": "오백일만삼천구백오십사", "sinhalese": "5013954" },
     { "korean": "이백팔십이만천칠백구십이", "sinhalese": "2821792" }
   ],
+"Verb": [
+    {
+        "korean": "가다",
+        "sinhalese": "යන්න"
+    },
+    {
+        "korean": "오다",
+        "sinhalese": "එන්න"
+    },
+    {
+        "korean": "먹다",
+        "sinhalese": "කන්න"
+    },
+    {
+        "korean": "마시다",
+        "sinhalese": "බොන්න"
+    },
+    {
+        "korean": "보다",
+        "sinhalese": "දැක්ක"
+    },
+    {
+        "korean": "듣다",
+        "sinhalese": "අහන්න"
+    },
+    {
+        "korean": "말하다",
+        "sinhalese": "කියන්න"
+    },
+    {
+        "korean": "읽다",
+        "sinhalese": "කියවන්න"
+    },
+    {
+        "korean": "쓰다",
+        "sinhalese": "ලියන්න"
+    },
+    {
+        "korean": "일하다",
+        "sinhalese": "වැඩ කරන්න"
+    },
+    {
+        "korean": "공부하다",
+        "sinhalese": "ඉගෙන ගන්න"
+    },
+    {
+        "korean": "쉬다",
+        "sinhalese": "විවේක ගන්න"
+    },
+    {
+        "korean": "자다",
+        "sinhalese": "නිදන්න"
+    },
+    {
+        "korean": "사다",
+        "sinhalese": "ගන්න"
+    },
+    {
+        "korean": "팔다",
+        "sinhalese": "විකුණන්න"
+    },
+    {
+        "korean": "열다",
+        "sinhalese": "අරින්න"
+    },
+    {
+        "korean": "닫다",
+        "sinhalese": "වැසිය"
+    },
+    {
+        "korean": "만들다",
+        "sinhalese": "සාදන්න"
+    },
+    {
+        "korean": "사용하다",
+        "sinhalese": "භාවිතා කරන්න"
+    },
+    {
+        "korean": "가르치다",
+        "sinhalese": "පඬවන්න"
+    },
+    {
+        "korean": "배우다",
+        "sinhalese": "අධ්‍යාපනය ගන්න"
+    },
+    {
+        "korean": "가다",
+        "sinhalese": "යන්න"
+    },
+    {
+        "korean": "오다",
+        "sinhalese": "එන්න"
+    },
+    {
+        "korean": "먹다",
+        "sinhalese": "කන්න"
+    },
+    {
+        "korean": "마시다",
+        "sinhalese": "බොන්න"
+    },
+    {
+        "korean": "보다",
+        "sinhalese": "දැක්ක"
+    },
+    {
+        "korean": "듣다",
+        "sinhalese": "අහන්න"
+    },
+    {
+        "korean": "말하다",
+        "sinhalese": "කියන්න"
+    },
+    {
+        "korean": "읽다",
+        "sinhalese": "කියවන්න"
+    },
+    {
+        "korean": "쓰다",
+        "sinhalese": "ලියන්න"
+    },
+    {
+        "korean": "일하다",
+        "sinhalese": "වැඩ කරන්න"
+    },
+    {
+        "korean": "공부하다",
+        "sinhalese": "ඉගෙන ගන්න"
+    },
+    {
+        "korean": "쉬다",
+        "sinhalese": "විවේක ගන්න"
+    },
+    {
+        "korean": "자다",
+        "sinhalese": "නිදන්න"
+    },
+    {
+        "korean": "사다",
+        "sinhalese": "ගන්න"
+    },
+    {
+        "korean": "팔다",
+        "sinhalese": "විකුණන්න"
+    },
+    {
+        "korean": "열다",
+        "sinhalese": "අරින්න"
+    },
+    {
+        "korean": "닫다",
+        "sinhalese": "වැසිය"
+    },
+    {
+        "korean": "만들다",
+        "sinhalese": "සාදන්න"
+    },
+    {
+        "korean": "사용하다",
+        "sinhalese": "භාවිතා කරන්න"
+    },
+    {
+        "korean": "가르치다",
+        "sinhalese": "පඬවන්න"
+    },
+    {
+        "korean": "배우다",
+        "sinhalese": "අධ්‍යාපනය ගන්න"
+    },
+    {
+        "korean": "가다",
+        "sinhalese": "යන්න"
+    },
+    {
+        "korean": "오다",
+        "sinhalese": "එන්න"
+    },
+    {
+        "korean": "먹다",
+        "sinhalese": "කන්න"
+    },
+    {
+        "korean": "마시다",
+        "sinhalese": "බොන්න"
+    },
+    {
+        "korean": "보다",
+        "sinhalese": "දැක්ක"
+    },
+    {
+        "korean": "듣다",
+        "sinhalese": "අහන්න"
+    },
+    {
+        "korean": "말하다",
+        "sinhalese": "කියන්න"
+    },
+    {
+        "korean": "읽다",
+        "sinhalese": "කියවන්න"
+    },
+    {
+        "korean": "쓰다",
+        "sinhalese": "ලියන්න"
+    },
+    {
+        "korean": "일하다",
+        "sinhalese": "වැඩ කරන්න"
+    },
+    {
+        "korean": "공부하다",
+        "sinhalese": "ඉගෙන ගන්න"
+    },
+    {
+        "korean": "쉬다",
+        "sinhalese": "විවේක ගන්න"
+    },
+    {
+        "korean": "자다",
+        "sinhalese": "නිදන්න"
+    },
+    {
+        "korean": "사다",
+        "sinhalese": "ගන්න"
+    },
+    {
+        "korean": "팔다",
+        "sinhalese": "විකුණන්න"
+    },
+    {
+        "korean": "열다",
+        "sinhalese": "අරින්න"
+    },
+    {
+        "korean": "닫다",
+        "sinhalese": "වැසිය"
+    },
+    {
+        "korean": "만들다",
+        "sinhalese": "සාදන්න"
+    },
+    {
+        "korean": "사용하다",
+        "sinhalese": "භාවිතා කරන්න"
+    },
+    {
+        "korean": "가르치다",
+        "sinhalese": "පඬවන්න"
+    },
+    {
+        "korean": "배우다",
+        "sinhalese": "අධ්‍යාපනය ගන්න"
+    },
+    {
+        "korean": "가다",
+        "sinhalese": "යන්න"
+    },
+    {
+        "korean": "오다",
+        "sinhalese": "එන්න"
+    },
+    {
+        "korean": "먹다",
+        "sinhalese": "කන්න"
+    },
+    {
+        "korean": "마시다",
+        "sinhalese": "බොන්න"
+    },
+    {
+        "korean": "보다",
+        "sinhalese": "දැක්ක"
+    },
+    {
+        "korean": "듣다",
+        "sinhalese": "අහන්න"
+    },
+    {
+        "korean": "말하다",
+        "sinhalese": "කියන්න"
+    },
+    {
+        "korean": "읽다",
+        "sinhalese": "කියවන්න"
+    },
+    {
+        "korean": "쓰다",
+        "sinhalese": "ලියන්න"
+    },
+    {
+        "korean": "일하다",
+        "sinhalese": "වැඩ කරන්න"
+    },
+    {
+        "korean": "공부하다",
+        "sinhalese": "ඉගෙන ගන්න"
+    },
+    {
+        "korean": "쉬다",
+        "sinhalese": "විවේක ගන්න"
+    },
+    {
+        "korean": "자다",
+        "sinhalese": "නිදන්න"
+    },
+    {
+        "korean": "사다",
+        "sinhalese": "ගන්න"
+    },
+    {
+        "korean": "팔다",
+        "sinhalese": "විකුණන්න"
+    },
+    {
+        "korean": "열다",
+        "sinhalese": "අරින්න"
+    },
+    {
+        "korean": "닫다",
+        "sinhalese": "වැසිය"
+    },
+    {
+        "korean": "만들다",
+        "sinhalese": "සාදන්න"
+    },
+    {
+        "korean": "사용하다",
+        "sinhalese": "භාවිතා කරන්න"
+    },
+    {
+        "korean": "가르치다",
+        "sinhalese": "පඬවන්න"
+    },
+    {
+        "korean": "배우다",
+        "sinhalese": "අධ්‍යාපනය ගන්න"
+    },
+    {
+        "korean": "가다",
+        "sinhalese": "යන්න"
+    },
+    {
+        "korean": "오다",
+        "sinhalese": "එන්න"
+    },
+    {
+        "korean": "먹다",
+        "sinhalese": "කන්න"
+    },
+    {
+        "korean": "마시다",
+        "sinhalese": "බොන්න"
+    },
+    {
+        "korean": "보다",
+        "sinhalese": "දැක්ක"
+    },
+    {
+        "korean": "듣다",
+        "sinhalese": "අහන්න"
+    },
+    {
+        "korean": "말하다",
+        "sinhalese": "කියන්න"
+    },
+    {
+        "korean": "읽다",
+        "sinhalese": "කියවන්න"
+    },
+    {
+        "korean": "쓰다",
+        "sinhalese": "ලියන්න"
+    },
+    {
+        "korean": "일하다",
+        "sinhalese": "වැඩ කරන්න"
+    },
+    {
+        "korean": "공부하다",
+        "sinhalese": "ඉගෙන ගන්න"
+    },
+    {
+        "korean": "쉬다",
+        "sinhalese": "විවේක ගන්න"
+    },
+    {
+        "korean": "자다",
+        "sinhalese": "නිදන්න"
+    },
+    {
+        "korean": "사다",
+        "sinhalese": "ගන්න"
+    },
+    {
+        "korean": "팔다",
+        "sinhalese": "විකුණන්න"
+    },
+    {
+        "korean": "열다",
+        "sinhalese": "අරින්න"
+    },
+    {
+        "korean": "닫다",
+        "sinhalese": "වැසිය"
+    },
+    {
+        "korean": "만들다",
+        "sinhalese": "සාදන්න"
+    },
+    {
+        "korean": "사용하다",
+        "sinhalese": "භාවිතා කරන්න"
+    },
+    {
+        "korean": "가르치다",
+        "sinhalese": "පඬවන්න"
+    },
+    {
+        "korean": "배우다",
+        "sinhalese": "අධ්‍යාපනය ගන්න"
+    },
+    {
+        "korean": "가다",
+        "sinhalese": "යන්න"
+    },
+    {
+        "korean": "오다",
+        "sinhalese": "එන්න"
+    },
+    {
+        "korean": "먹다",
+        "sinhalese": "කන්න"
+    },
+    {
+        "korean": "마시다",
+        "sinhalese": "බොන්න"
+    },
+    {
+        "korean": "보다",
+        "sinhalese": "දැක්ක"
+    },
+    {
+        "korean": "듣다",
+        "sinhalese": "අහන්න"
+    },
+    {
+        "korean": "말하다",
+        "sinhalese": "කියන්න"
+    },
+    {
+        "korean": "읽다",
+        "sinhalese": "කියවන්න"
+    },
+    {
+        "korean": "쓰다",
+        "sinhalese": "ලියන්න"
+    },
+    {
+        "korean": "일하다",
+        "sinhalese": "වැඩ කරන්න"
+    },
+    {
+        "korean": "공부하다",
+        "sinhalese": "ඉගෙන ගන්න"
+    },
+    {
+        "korean": "쉬다",
+        "sinhalese": "විවේක ගන්න"
+    },
+    {
+        "korean": "자다",
+        "sinhalese": "නිදන්න"
+    },
+    {
+        "korean": "사다",
+        "sinhalese": "ගන්න"
+    },
+    {
+        "korean": "팔다",
+        "sinhalese": "විකුණන්න"
+    },
+    {
+        "korean": "열다",
+        "sinhalese": "අරින්න"
+    },
+    {
+        "korean": "닫다",
+        "sinhalese": "වැසිය"
+    },
+    {
+        "korean": "만들다",
+        "sinhalese": "සාදන්න"
+    },
+    {
+        "korean": "사용하다",
+        "sinhalese": "භාවිතා කරන්න"
+    },
+    {
+        "korean": "가르치다",
+        "sinhalese": "පඬවන්න"
+    },
+    {
+        "korean": "배우다",
+        "sinhalese": "අධ්‍යාපනය ගන්න"
+    },
+    {
+        "korean": "가다",
+        "sinhalese": "යන්න"
+    },
+    {
+        "korean": "오다",
+        "sinhalese": "එන්න"
+    },
+    {
+        "korean": "먹다",
+        "sinhalese": "කන්න"
+    },
+    {
+        "korean": "마시다",
+        "sinhalese": "බොන්න"
+    },
+    {
+        "korean": "보다",
+        "sinhalese": "දැක්ක"
+    },
+    {
+        "korean": "듣다",
+        "sinhalese": "අහන්න"
+    },
+    {
+        "korean": "말하다",
+        "sinhalese": "කියන්න"
+    },
+    {
+        "korean": "읽다",
+        "sinhalese": "කියවන්න"
+    },
+    {
+        "korean": "쓰다",
+        "sinhalese": "ලියන්න"
+    },
+    {
+        "korean": "일하다",
+        "sinhalese": "වැඩ කරන්න"
+    },
+    {
+        "korean": "공부하다",
+        "sinhalese": "ඉගෙන ගන්න"
+    },
+    {
+        "korean": "쉬다",
+        "sinhalese": "විවේක ගන්න"
+    },
+    {
+        "korean": "자다",
+        "sinhalese": "නිදන්න"
+    },
+    {
+        "korean": "사다",
+        "sinhalese": "ගන්න"
+    },
+    {
+        "korean": "팔다",
+        "sinhalese": "විකුණන්න"
+    },
+    {
+        "korean": "열다",
+        "sinhalese": "අරින්න"
+    },
+    {
+        "korean": "닫다",
+        "sinhalese": "වැසිය"
+    },
+    {
+        "korean": "만들다",
+        "sinhalese": "සාදන්න"
+    },
+    {
+        "korean": "사용하다",
+        "sinhalese": "භාවිතා කරන්න"
+    },
+    {
+        "korean": "가르치다",
+        "sinhalese": "පඬවන්න"
+    },
+    {
+        "korean": "배우다",
+        "sinhalese": "අධ්‍යාපනය ගන්න"
+    },
+    {
+        "korean": "가다",
+        "sinhalese": "යන්න"
+    },
+    {
+        "korean": "오다",
+        "sinhalese": "එන්න"
+    },
+    {
+        "korean": "먹다",
+        "sinhalese": "කන්න"
+    },
+    {
+        "korean": "마시다",
+        "sinhalese": "බොන්න"
+    },
+    {
+        "korean": "보다",
+        "sinhalese": "දැක්ක"
+    },
+    {
+        "korean": "듣다",
+        "sinhalese": "අහන්න"
+    },
+    {
+        "korean": "말하다",
+        "sinhalese": "කියන්න"
+    },
+    {
+        "korean": "읽다",
+        "sinhalese": "කියවන්න"
+    },
+    {
+        "korean": "쓰다",
+        "sinhalese": "ලියන්න"
+    },
+    {
+        "korean": "일하다",
+        "sinhalese": "වැඩ කරන්න"
+    },
+    {
+        "korean": "공부하다",
+        "sinhalese": "ඉගෙන ගන්න"
+    },
+    {
+        "korean": "쉬다",
+        "sinhalese": "විවේක ගන්න"
+    },
+    {
+        "korean": "자다",
+        "sinhalese": "නිදන්න"
+    },
+    {
+        "korean": "사다",
+        "sinhalese": "ගන්න"
+    },
+    {
+        "korean": "팔다",
+        "sinhalese": "විකුණන්න"
+    },
+    {
+        "korean": "열다",
+        "sinhalese": "අරින්න"
+    },
+    {
+        "korean": "닫다",
+        "sinhalese": "වැසිය"
+    },
+    {
+        "korean": "만들다",
+        "sinhalese": "සාදන්න"
+    },
+    {
+        "korean": "사용하다",
+        "sinhalese": "භාවිතා කරන්න"
+    },
+    {
+        "korean": "가르치다",
+        "sinhalese": "පඬවන්න"
+    },
+    {
+        "korean": "배우다",
+        "sinhalese": "අධ්‍යාපනය ගන්න"
+    },
+    {
+        "korean": "가다",
+        "sinhalese": "යන්න"
+    },
+    {
+        "korean": "오다",
+        "sinhalese": "එන්න"
+    },
+    {
+        "korean": "먹다",
+        "sinhalese": "කන්න"
+    },
+    {
+        "korean": "마시다",
+        "sinhalese": "බොන්න"
+    },
+    {
+        "korean": "보다",
+        "sinhalese": "දැක්ක"
+    },
+    {
+        "korean": "듣다",
+        "sinhalese": "අහන්න"
+    },
+    {
+        "korean": "말하다",
+        "sinhalese": "කියන්න"
+    },
+    {
+        "korean": "읽다",
+        "sinhalese": "කියවන්න"
+    },
+    {
+        "korean": "쓰다",
+        "sinhalese": "ලියන්න"
+    },
+    {
+        "korean": "일하다",
+        "sinhalese": "වැඩ කරන්න"
+    },
+    {
+        "korean": "공부하다",
+        "sinhalese": "ඉගෙන ගන්න"
+    },
+    {
+        "korean": "쉬다",
+        "sinhalese": "විවේක ගන්න"
+    },
+    {
+        "korean": "자다",
+        "sinhalese": "නිදන්න"
+    },
+    {
+        "korean": "사다",
+        "sinhalese": "ගන්න"
+    },
+    {
+        "korean": "팔다",
+        "sinhalese": "විකුණන්න"
+    },
+    {
+        "korean": "열다",
+        "sinhalese": "අරින්න"
+    },
+    {
+        "korean": "닫다",
+        "sinhalese": "වැසිය"
+    },
+    {
+        "korean": "만들다",
+        "sinhalese": "සාදන්න"
+    },
+    {
+        "korean": "사용하다",
+        "sinhalese": "භාවිතා කරන්න"
+    },
+    {
+        "korean": "가르치다",
+        "sinhalese": "පඬවන්න"
+    },
+    {
+        "korean": "배우다",
+        "sinhalese": "අධ්‍යාපනය ගන්න"
+    },
+    {
+        "korean": "가다",
+        "sinhalese": "යන්න"
+    },
+    {
+        "korean": "오다",
+        "sinhalese": "එන්න"
+    },
+    {
+        "korean": "먹다",
+        "sinhalese": "කන්න"
+    },
+    {
+        "korean": "마시다",
+        "sinhalese": "බොන්න"
+    },
+    {
+        "korean": "보다",
+        "sinhalese": "දැක්ක"
+    },
+    {
+        "korean": "듣다",
+        "sinhalese": "අහන්න"
+    },
+    {
+        "korean": "말하다",
+        "sinhalese": "කියන්න"
+    },
+    {
+        "korean": "읽다",
+        "sinhalese": "කියවන්න"
+    },
+    {
+        "korean": "쓰다",
+        "sinhalese": "ලියන්න"
+    },
+    {
+        "korean": "일하다",
+        "sinhalese": "වැඩ කරන්න"
+    },
+    {
+        "korean": "공부하다",
+        "sinhalese": "ඉගෙන ගන්න"
+    }
+], 
   "3-4. 안녕하세요": [
     { "korean": "오이", "sinhalese": "පිපිඤ්ඤ" },
     { "korean": "우유", "sinhalese": "කිරි" },
