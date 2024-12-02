@@ -2097,6 +2097,200 @@
         "sinhalese": "ගෙන එන්න (වෙනස්)"
     }
 ], 
+    "actives": [
+        {
+            "korean": "아름다운",
+            "sinhalese": "ලස්සන"
+        },
+        {
+            "korean": "빠른",
+            "sinhalese": "වේගවත්"
+        },
+        {
+            "korean": "느린",
+            "sinhalese": "මන්දගාමී"
+        },
+        {
+            "korean": "행복한",
+            "sinhalese": "සතුටු"
+        },
+        {
+            "korean": "슬픈",
+            "sinhalese": "දුකින් පිරුණු"
+        },
+        {
+            "korean": "건강한",
+            "sinhalese": "සෞඛ්‍යමත්"
+        },
+        {
+            "korean": "강한",
+            "sinhalese": "ශක්තිමත්"
+        },
+        {
+            "korean": "약한",
+            "sinhalese": "දුර්වල"
+        },
+        {
+            "korean": "차가운",
+            "sinhalese": "සීතල"
+        },
+        {
+            "korean": "따뜻한",
+            "sinhalese": "උණුසුම්"
+        },
+        {
+            "korean": "깨끗한",
+            "sinhalese": "පිරිසුදු"
+        },
+        {
+            "korean": "더러운",
+            "sinhalese": "අපිරිසිදු"
+        },
+        {
+            "korean": "큰",
+            "sinhalese": "විශාල"
+        },
+        {
+            "korean": "작은",
+            "sinhalese": "කුඩා"
+        },
+        {
+            "korean": "높은",
+            "sinhalese": "ඉහළ"
+        },
+        {
+            "korean": "낮은",
+            "sinhalese": "පහළ"
+        },
+        {
+            "korean": "조용한",
+            "sinhalese": "සන්සුන්"
+        },
+        {
+            "korean": "시끄러운",
+            "sinhalese": "කළබල"
+        },
+        {
+            "korean": "맛있는",
+            "sinhalese": "රසවත්"
+        },
+        {
+            "korean": "달콤한",
+            "sinhalese": "මිහිරි"
+        },
+        {
+            "korean": "짜증나는",
+            "sinhalese": "කෝපිත"
+        },
+        {
+            "korean": "기쁜",
+            "sinhalese": "සතුටු"
+        },
+        {
+            "korean": "평화로운",
+            "sinhalese": "සන්සුන්"
+        },
+        {
+            "korean": "추운",
+            "sinhalese": "සීතල"
+        },
+        {
+            "korean": "더운",
+            "sinhalese": "උණුසුම්"
+        },
+        {
+            "korean": "예쁜",
+            "sinhalese": "ලස්සන"
+        },
+        {
+            "korean": "부드러운",
+            "sinhalese": "මෘදු"
+        },
+        {
+            "korean": "단단한",
+            "sinhalese": "දෘඪ"
+        },
+        {
+            "korean": "비싼",
+            "sinhalese": "ගණන් වැඩි"
+        },
+        {
+            "korean": "저렴한",
+            "sinhalese": "අඩු මිල"
+        },
+        {
+            "korean": "똑똑한",
+            "sinhalese": "බුද්ධිමත්"
+        },
+        {
+            "korean": "게으른",
+            "sinhalese": "අලස"
+        },
+        {
+            "korean": "부지런한",
+            "sinhalese": "කාර්යක්ෂම"
+        },
+        {
+            "korean": "조심스러운",
+            "sinhalese": "සැලකිලිමත්"
+        },
+        {
+            "korean": "행운의",
+            "sinhalese": "සන්සුන්"
+        },
+        {
+            "korean": "불행한",
+            "sinhalese": "අසතුටු"
+        },
+        {
+            "korean": "긴",
+            "sinhalese": "දිගු"
+        },
+        {
+            "korean": "짧은",
+            "sinhalese": "කෙටි"
+        },
+        {
+            "korean": "무거운",
+            "sinhalese": "බර"
+        },
+        {
+            "korean": "가벼운",
+            "sinhalese": "සැහැල්ලු"
+        },
+        {
+            "korean": "따뜻한",
+            "sinhalese": "උණුසුම්"
+        },
+        {
+            "korean": "냉정한",
+            "sinhalese": "නිරාකාර"
+        },
+        {
+            "korean": "정직한",
+            "sinhalese": "අවංක"
+        },
+        {
+            "korean": "거짓말하는",
+            "sinhalese": "බොරුකාර"
+        },
+        {
+            "korean": "사랑스러운",
+            "sinhalese": "ආදරණීය"
+        },
+        {
+            "korean": "증오스러운",
+            "sinhalese": "වෛරයෙන් පිරුණු"
+        },
+        {
+            "korean": "현명한",
+            "sinhalese": "නිවැරදි"
+        },
+        {
+            "korean": "어리석은",
+            "sinhalese": "මෝඩ"
+        }
+    ], 
   "3-4. 안녕하세요": [
     { "korean": "오이", "sinhalese": "පිපිඤ්ඤ" },
     { "korean": "우유", "sinhalese": "කිරි" },
