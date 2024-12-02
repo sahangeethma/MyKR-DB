@@ -941,7 +941,8 @@
     { "korean": "추석", "sinhalese": "මළවුන් සැමරීම" },
     { "korean": "개천절", "sinhalese": "ජාතික පදනම් දිනය" },
     { "korean": "한글날", "sinhalese": "හංගල් දිනය" },
-    { "korean": "크리스마스", "sinhalese": "නත්තල් දිනය" }
-  ],
+    { "korean": "크리스마스", "sinhalese": "නත්තල් දිනය" }, 
+    { "korean" :"msksl", "sinhalese" :"mzkfmdm" } 
+  ]
 }
  
